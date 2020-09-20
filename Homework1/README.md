@@ -186,7 +186,8 @@ func TestReverse(t *testing.T) {
 在`vscode`创建一个`test.go`文件，会提示你安装一些插件，点击`install All`会发生错误 ：
 <img src="./images/6.png" width=75% height=75%>
 
-只能手动`clone`:
+只能手动`clone`:  
+
 ![](./images/7.png)
 
 然后执行以下命令手动安装：
@@ -241,7 +242,8 @@ $ go get github.com/Go-zh/tour/gotour
 $ gotour
 ```
 
-会得到以下结果：
+会得到以下结果：  
+
 ![](./images/8.png)
 
 说明这个是已经过期了的，应该按照[官网](https://learnku.com/go/wikis/38166)来进行下载

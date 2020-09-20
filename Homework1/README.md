@@ -211,7 +211,7 @@ go env -w  GOPROXY=https://goproxy.io
 
 ```
 
-之后写个脚本来手动安装插件（需要挂VPN）:
+之后写个脚本`install.sh`来手动安装插件（需要挂VPN）:
 ```
 go get -v github.com/mdempsky/gocode
 go get -v github.com/uudashr/gopkgs/v2/cmd/gopkgs
@@ -232,7 +232,13 @@ go get -v github.com/sqs/goreturns
 go get -v golang.org/x/lint/golint
 
 ```
-就可以正常下载了
+
+记得给予它执行权限 ：
+```
+sudo chmod +x install.sh
+```
+
+就可以通过执行`./install.sh`来正常下载了
 
 ## 安装与运行`gotour`
 

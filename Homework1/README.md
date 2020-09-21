@@ -1,12 +1,12 @@
 # Homework1
 
 目录：
-* [安装golang]("安装golang") 
-* [设置环境变量]("设置环境变量")
-* [创建Helloworld]("创建Helloworld")
-* [创建第一个库]("创建第一个库")
-* [第一个测试]("第一个测试")
-* [安装与运行go tour]("安装与运行`gotour`")
+* [安装golang](#安装golang) 
+* [设置环境变量](#设置环境变量)
+* [创建Helloworld](#创建Helloworld)
+* [创建第一个库](#创建第一个库)
+* [第一个测试](#第一个测试)
+* [安装与运行go tour](#安装与运行`gotour`)
 
 ## 安装golang
 

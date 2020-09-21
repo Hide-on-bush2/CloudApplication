@@ -6,7 +6,7 @@
 * [创建Helloworld](#创建Helloworld)
 * [创建第一个库](#创建第一个库)
 * [第一个测试](#第一个测试)
-* [安装与运行go tour](#安装与运行`gotour`)
+* [安装与运行go tour](#安装与运行gotour)
 
 ## 安装golang
 
@@ -240,7 +240,7 @@ sudo chmod +x install.sh
 
 就可以通过执行`./install.sh`来正常下载了
 
-## 安装与运行`gotour`
+## 安装与运行gotour
 
 如果是按照以下比较旧的版本来安装：
 ```
